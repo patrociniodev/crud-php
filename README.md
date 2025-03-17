@@ -1,1 +1,1 @@
-Crud com banco de dados MySQL utilizando PHP versão 8  
+Crud com banco de dados MySQL utilizando PHP v8.2

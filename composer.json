@@ -1,0 +1,21 @@
+{
+    "name": "isaac/crud",
+    "autoload": {
+        "psr-4": {
+            "Isaac\\Crud\\": "src/",
+            "App\\": "src/"
+        }
+    },
+    "files": [
+        "src/config/db_config.php"
+    ],
+    "authors": [
+        {
+            "name": "Isaac",
+            "email": "isaacpatrocinio27@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}

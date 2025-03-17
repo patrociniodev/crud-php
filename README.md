@@ -1,1 +1,1 @@
-CRUD com banco de dados MySQL utilizando PHP v8.4
+CRUD com banco de dados MySQL utilizando PHP 8  
